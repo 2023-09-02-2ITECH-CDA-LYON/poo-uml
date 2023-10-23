@@ -4,7 +4,7 @@
 
 ## Enoncé
 
-1. Modélisez le besoin suivant à l'aide d'un diagramme d'activité le besoin exprimé ci-dessous.
+1. Modélisez le besoin suivant à l'aide d'un diagramme d'activité.
 2. Modélisez à l'aide d'un diagramme de cas d'utilisation le besoin exprimé ci-dessous.
 
 ---
