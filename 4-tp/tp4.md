@@ -1,15 +1,11 @@
-# TP 3 : Modélisation d'un vol
+# TP 4 : Modélisation d'un vol
 
 ---
 
 ## Enoncé
 
-1. Modélisez le besoin suivant à l'aide d'un diagramme d'activité le besoin exprimé ci-dessous.
-2. Modélisez à l'aide d'un diagramme de cas d'utilisation le besoin exprimé ci-dessous.
-
----
-
-## Besoins
+1. Modélisez le besoin suivant à l'aide ***les diagrammes UML*** de votre choix.
+2. Modélisez à l'aide du diagramme de composants et deploiement, la future solution mise en ligne avec les logiciels et matériels de votre choix.
 
 - Un vol a une ville de départ et une ville d'arrivé.
 - Une ville possède un ou plusieurs aéroports.
