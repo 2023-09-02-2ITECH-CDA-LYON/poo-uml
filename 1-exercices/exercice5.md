@@ -12,7 +12,7 @@
 
 **Les travaux à effectuer ci-arpès doivent être effectué à partir de votre réalisation de l'exercice 4.**
 1. A partir de ce [template](./ressources/uc_details.xlsx), **détaillez 2 cas d'utilisation** de votre choix.
-2. En vous appuyant sur l'exemple ci-dessous d'un diagramme d'état-transition, representez les différents états de la disponibilité d'un logement.
+2. En vous appuyant sur l'exemple ci-dessous d'un diagramme d'état-transition, representez les différents états de la disponibilité d'un logement dans le cas d'**une réservation du logement**.
 
 ---
 
